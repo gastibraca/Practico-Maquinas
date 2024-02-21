@@ -1,0 +1,5 @@
+El programa fue creado en Windows 11, utilizando IDLE (Python 3.11 64-bit)
+
+El programa se debe ejecutar desde un interprete como sea IDLE. En esta carpeta se encuentran todos los archivos necesarios para su operación.
+Dentro de los archivos ya hay cargados varios profesores, encargados y algunas inscripciones de prueba.
+

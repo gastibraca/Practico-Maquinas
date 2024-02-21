@@ -1,0 +1,15 @@
+Archivos necesarios:
+
+Inscripciones.txt : diccionario nombre: [fecha, nombre, materia, profesor, curso, div, nota(-1 inicialmente)]
+Profesores.txt: diccionario de listas nombre: (nombre, materia, curso, div)
+Encargados.txt: diccionario. Si par nombre: (nombre,dni) in d ingresa, si no error
+
+Funciones:
+  Encargados:
+inscribir
+modificar inscripciones
+  Profesores:
+Modificar notas l[6]
+Ambos:
+Modificar entradas
+Todo se presenta a traves de un menu.
